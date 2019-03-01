@@ -8,6 +8,9 @@ buildNumber.properties
 *.class
 .idea
 **.iml
+.project
+.classpath
+.settings
 
 # Package Files #
 *.jar
